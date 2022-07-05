@@ -1,6 +1,6 @@
 import logo from './logo.svg'
 import './App.css'
-import { PokemonList } from './PokemonList'
+import 'PokemonList'  from './PokemonList'
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <PokemonList />
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
