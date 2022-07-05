@@ -10,7 +10,7 @@ function App() {
         <PokemonList />
       </header>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
